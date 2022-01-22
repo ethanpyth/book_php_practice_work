@@ -10,6 +10,7 @@
         $_POST['pseudo'],
         $_POST['message']
     ));
+    setcookie('pseudo', $_POST['pseudo'], time() + 24 * 3600);
 
     //Puis rediriger vers minichat.php comme ceci :
     header('Location: minichat.php');

@@ -12,7 +12,7 @@
 <body>
     <form method="post" action="minichatpost.php">
         <p>
-            <label for="pseudo">Pseudo</label> : <input type="text" name="pseudo" placeholder="Entrer votre pseudo"><br>
+            <label for="pseudo">Pseudo</label> : <input type="text" name="pseudo" value="<?php echo $_COOKIE['pseudo'] ?>" placeholder="Entrer votre pseudo"><br>
             <label for="message">Message</label> : <input type="textarea" name="message" placeholder="Entrer votre message">
             <input type="submit">
         </p>
