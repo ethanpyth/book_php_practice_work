@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee71521b-1e28-452d-a009-abc5e20c648a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tp3/controllers/admin/add_billets_posts.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tp3/controllers/admin/admin.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tp3/controllers/admin/deletion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp3/controllers/billets.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tp3/models/admin/admin.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tp3/views/admin/add.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tp3/views/admin/deletion.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tp3/views/admin/index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tp3/views/admin/modify.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp3" beforeDir="false" afterPath="$PROJECT_DIR$/tp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/admin/.htaccess" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/admin/.htpasswd" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/views/admin/admin.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/admin/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/controllers/admin/add.php" afterDir="false" />
@@ -25,6 +24,7 @@
       <change beforePath="$PROJECT_DIR$/tp3/models/members_space/db_operations.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/models/members_space/db_operations.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/views/blog/commentaires.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/views/blog/commentaires.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/views/blog/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/views/blog/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp3/views/blog/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/views/blog/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tp3" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/tp3/controllers/admin/add_billets_posts.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/tp3/controllers/admin/admin.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/tp3/controllers/admin/index.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/tp3/controllers/admin/modify.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
@@ -78,7 +77,7 @@
       <updated>1644428613796</updated>
       <workItem from="1644428615433" duration="500000" />
       <workItem from="1644474941133" duration="9018000" />
-      <workItem from="1644515931983" duration="4406000" />
+      <workItem from="1644515931983" duration="8725000" />
     </task>
     <servers />
   </component>
