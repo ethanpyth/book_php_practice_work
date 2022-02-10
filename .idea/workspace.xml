@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee71521b-1e28-452d-a009-abc5e20c648a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/book_php_practice_work.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tp3/controllers/admin/add_billets_posts.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tp3/controllers/admin/admin.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tp3/controllers/admin/deletion.php" afterDir="false" />
@@ -12,11 +10,7 @@
       <change afterPath="$PROJECT_DIR$/tp3/views/admin/deletion.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tp3/views/admin/index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tp3/views/admin/modify.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3" beforeDir="false" afterPath="$PROJECT_DIR$/tp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/admin/.htaccess" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/admin/.htpasswd" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/views/admin/admin.php" afterDir="false" />
@@ -84,7 +78,7 @@
       <updated>1644428613796</updated>
       <workItem from="1644428615433" duration="500000" />
       <workItem from="1644474941133" duration="9018000" />
-      <workItem from="1644515931983" duration="1213000" />
+      <workItem from="1644515931983" duration="3543000" />
     </task>
     <servers />
   </component>
