@@ -10,8 +10,8 @@
       <change afterPath="$PROJECT_DIR$/tp3/views/admin/deletion.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tp3/views/admin/index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tp3/views/admin/modify.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/966a0e2c-7df8-4494-b878-e7ed5f42ad3c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/966a0e2c-7df8-4494-b878-e7ed5f42ad3c.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crypt_pwd.php" beforeDir="false" afterPath="$PROJECT_DIR$/crypt_pwd.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3" beforeDir="false" afterPath="$PROJECT_DIR$/tp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/admin/.htaccess" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/admin/.htpasswd" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/views/admin/admin.php" afterDir="false" />
@@ -22,11 +22,14 @@
       <change beforePath="$PROJECT_DIR$/tp3/admin/modify.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/controllers/admin/modify.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/controllers/blog/commentaires.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/controllers/blog/commentaires.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/controllers/blog/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/controllers/blog/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp3/controllers/members_space/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/controllers/members_space/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp3/controllers/members_space/subscription.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/controllers/members_space/subscription.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/models/blog/get_billets.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/models/blog/get_billets.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/models/members_space/db_operations.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/models/members_space/db_operations.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/views/blog/commentaires.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/views/blog/commentaires.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/views/blog/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/views/blog/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/views/blog/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/views/blog/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp3/views/members_space/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/views/members_space/login.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +83,9 @@
       <workItem from="1644428615433" duration="500000" />
       <workItem from="1644474941133" duration="9018000" />
       <workItem from="1644515931983" duration="8919000" />
-      <workItem from="1644560412498" duration="4597000" />
+      <workItem from="1644560412498" duration="7084000" />
+      <workItem from="1644581904138" duration="1665000" />
+      <workItem from="1644597200935" duration="6686000" />
     </task>
     <servers />
   </component>

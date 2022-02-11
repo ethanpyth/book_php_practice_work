@@ -1,3 +1,3 @@
 <?php
-$pwd = crypt('ethan_0901','gz');
-echo $pwd;
+
+echo sha1('ethan0901','gz');
