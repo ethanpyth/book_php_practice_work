@@ -10,7 +10,9 @@
       <change afterPath="$PROJECT_DIR$/tp3/views/admin/deletion.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tp3/views/admin/index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tp3/views/admin/modify.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/966a0e2c-7df8-4494-b878-e7ed5f42ad3c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/966a0e2c-7df8-4494-b878-e7ed5f42ad3c.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp3" beforeDir="false" afterPath="$PROJECT_DIR$/tp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/admin/.htaccess" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/admin/.htpasswd" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/views/admin/admin.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tp3/admin/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/tp3/controllers/admin/add.php" afterDir="false" />
@@ -77,7 +79,8 @@
       <updated>1644428613796</updated>
       <workItem from="1644428615433" duration="500000" />
       <workItem from="1644474941133" duration="9018000" />
-      <workItem from="1644515931983" duration="8725000" />
+      <workItem from="1644515931983" duration="8919000" />
+      <workItem from="1644560412498" duration="4597000" />
     </task>
     <servers />
   </component>
